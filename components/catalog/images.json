@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image": "/banners/baldur's gate.webp"
+    },
+    {
+        "id": 2,
+        "image": "/banners/ac odyssey.jpg"
+    },
+    {
+        "id": 3,
+        "image": "/banners/the witcher 3.jpg"
+    },
+    {
+        "id": 4,
+        "image": ""
+    },
+    {
+        "id": 5,
+        "image": ""
+    },
+    {
+        "id": 6,
+        "image": ""
+    },
+    {
+        "id": 7,
+        "image": ""
+    }
+]

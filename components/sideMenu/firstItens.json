@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "image": "/icons/home.png",
+        "description": "Home"
+    },
+    {
+        "id": 2,
+        "image": "/icons/tag.png",
+        "description": "Library"
+    },
+    {
+        "id": 3,
+        "image": "/icons/shop.png",
+        "description": "Store"
+    },
+    {
+        "id": 4,
+        "image": "/icons/heart.png",
+        "description": "Wishlist"
+    }
+]

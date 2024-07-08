@@ -1,0 +1,12 @@
+[
+    {
+        "id": 5,
+        "image": "/icons/discount.png",
+        "description": "Discount"
+    },
+    {
+        "id": 6,
+        "image": "/icons/wallet.png",
+        "description": "Wallet"
+    }
+]
