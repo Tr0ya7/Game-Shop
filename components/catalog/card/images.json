@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "image": "/banners/little nightmares 2.png",
+        "description": "Little Nightmares II",
+        "categories": [
+            {
+                "id": 1,
+                "category": "Adventure"
+            },
+            {
+                "id": 2,
+                "category": "Puzzle"
+            },
+            {
+                "id": 3,
+                "category": "Horror"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "/banners/unravel.png",
+        "description": "Unravel",
+        "categories": [
+            {
+                "id": 4,
+                "category": "Platform"
+            },
+            {
+                "id": 5,
+                "category": "Puzzle"
+            }
+        ]
+    }
+]

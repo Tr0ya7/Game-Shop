@@ -4,9 +4,9 @@ import secondItens from './secondItens.json'
 import Image from 'next/image'
 
 const SideMenu = () => (
-    <section className="bg-black bg-opacity-50 min-h-screen absolute min-w-[300px]">
-        <section className="m-7">
-            <p className="mb-5 bold text-[40px]">
+    <section className="bg-black bg-opacity-50 min-h-screen min-w-[400px] flex">
+        <section className="m-7 w-full relative">
+            <p className="mb-5 font-bold text-[40px]">
                 SHOP
             </p>
             <hr />
@@ -14,7 +14,7 @@ const SideMenu = () => (
             <hr />
             <MenuItem item={secondItens} />
             <hr />
-            <div className="flex items-center justify-end h-full absolute">
+            <div className="flex absolute items-center bottom-0 cursor-pointer">
                 <Image width={30} height={30} src="/icons/chat.png" />
                 <p className="ml-[13px]">
                     Friends & Chat
