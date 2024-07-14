@@ -6,7 +6,7 @@ import Image from 'next/image'
 const SideMenu = () => (
     <section className="bg-black bg-opacity-50 min-h-screen min-w-[400px] flex">
         <section className="m-7 w-full relative">
-            <p className="mb-5 font-bold text-[40px]">
+            <p className="mb-5 font-bold text-4.5xl">
                 SHOP
             </p>
             <hr />

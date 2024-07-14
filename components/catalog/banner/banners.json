@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "src": "/banners/The Witcher 3.png",
+        "name": "The Witcher 3: Wild Hunt",
+        "categories": [
+            {
+                "id": 1,
+                "category": "RPG"
+            },
+            {
+                "id": 2,
+                "category": "Adventure"
+            },
+            {
+                "id": 3,
+                "category": "Action"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "src": "/banners/Fallout New Vegas.png",
+        "name": "Fallout New Vegas",
+        "categories": [
+            {
+                "id": 4,
+                "category": "RPG"
+            },
+            {
+                "id": 5,
+                "category": "Open World"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "src": "/banners/Hogwarts Legacy.png",
+        "name": "Hogwarts Legacy",
+        "categories": [
+            {
+                "id": 7,
+                "category": "RPG"
+            },
+            {
+                "id": 8,
+                "category": "Adventure"
+            },
+            {
+                "id": 9,
+                "category": "Action"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "src": "/banners/Baldur's Gate 3.png",
+        "name": "Baldur's Gate 3",
+        "categories": [
+            {
+                "id": 10,
+                "category": "RPG"
+            },
+            {
+                "id": 11,
+                "category": "Strategy"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "src": "/banners/GhostRecon WIldlands.png",
+        "name": "GhostRecon WIldlands",
+        "categories": [
+            {
+                "id": 12,
+                "category": "Action"
+            },
+            {
+                "id": 13,
+                "category": "Open World"
+            },
+            {
+                "id": 14,
+                "category": "Shooter"
+            }
+        ]
+    }
+]

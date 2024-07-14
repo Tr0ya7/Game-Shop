@@ -1,7 +1,7 @@
 import Image from "next/image"
 
 const Header = () => (
-    <header className="flex justify-end m-7 items-center">
+    <header className="flex justify-end mx-7 my-1 items-center">
         <div className="flex m-5">
             <input className="min-w-[543px] rounded-full bg-[#525358] h-[45px] relative pl-12 text-2xl" placeholder="Type to search" />
             <Image className="absolute m-2" width={30} height={30} src="/icons/search.png" />
